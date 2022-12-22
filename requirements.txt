@@ -24,7 +24,6 @@ joblib==1.2.0
 jsonschema==4.17.3
 MarkupSafe==2.1.1
 nltk==3.7
-numpy==1.23.5
 numpyencoder==0.3.0
 outcome==1.2.0
 packaging==21.3
